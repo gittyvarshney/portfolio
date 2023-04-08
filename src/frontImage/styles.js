@@ -59,7 +59,7 @@ justify-content: space-between;
       .desktop-frame{
         padding-bottom: 10px;
         .desktop-type{
-          top: 20%;
+          top: 15%;
         }
       }
       .decorate-image{

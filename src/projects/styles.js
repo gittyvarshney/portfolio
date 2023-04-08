@@ -10,7 +10,7 @@ export const WrapperDiv = styled.div`
 
     .custom-shape{
         width: 100%;
-        fill: rgb(241,243,255);
+        fill: #edf0ff;
         line-height: 0;
 
         svg {

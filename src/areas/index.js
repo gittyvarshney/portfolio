@@ -85,17 +85,16 @@ const  Areas = () => {
                         <img src={process.env.PUBLIC_URL + '/images/cover_images/mobile_background.jpg'} />
                         <div class='card-front'>
                             <h3 class='card-title'>
-                                Mobile Development
+                                Mobile Development React-Native
                             </h3>
                             <p class='card-subtitle'> 
-                                Beginner
+                                Intermediate
                             </p>
                         </div>
                         <div class='card-back'>
                             <p class='card-body'>
-                            Started mobile Development with Java and switched to <b>React Native</b>, as familiar with
-                            ReactJS. Although I can create decent apps with <b>Expo CLI</b>, I lack industry-wide experience 
-                            as a beginner.
+                            Started mobile Development with Java and switched to <b>React Native</b>, Developed various cross-platform
+                            features (Android/IOS) for both <b>MakeMyTrip & Go-Ibibo.</b>
                             </p>
                         </div>
                     </div>

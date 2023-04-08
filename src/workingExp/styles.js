@@ -189,3 +189,66 @@ export const FinvolvDiv = styled.div`
     }
 
 `
+
+export const MMTDiv = styled.div`
+    width: 100%;
+    height: 70%;
+    position: relative;
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
+    padding-inline: 5%;
+    justify-content: space-between;
+    flex-wrap: wrap-reverse;
+    background-color: #edf0ff;
+    .image-div{
+        z-index: 3;
+        width: max(45%,280px);
+        .working-man{
+            display: flex;
+            justify-content: center;
+            img{
+                border-radius: 81% 19% 81% 19% / 20% 81% 19% 80%;
+                width: 80%;
+                height: 30%;
+            }
+        }
+    }
+
+    .intro-finvolv{
+        align-self: center;
+        width: 45%;
+        color: #6d6181;
+        .heading{
+            font-family: 'Courgette';
+            font-size: clamp(1.2rem,2vw,2rem);
+            p{
+                font-size: clamp(1rem,1.6vw,1.8rem);
+                margin-block: 10px;
+            }
+        }
+        .body{
+            margin-top: 12px;
+            font-family: 'Charm';
+            font-size: clamp(0.9rem,1.8vw,1.5rem);
+            p{
+                font-size: clamp(0.6rem,1.4vw,1.6rem);
+                margin-block: 5px;
+            }
+        }
+    }
+
+    @media (max-width: 576px){
+      justify-content: center;
+      height: auto;
+      .image-div{
+          margin-top: 10px;
+        }
+        .intro-finvolv{
+          margin-top: 15px;
+          margin-bottom: 15px;
+          width: 80%;
+        }
+    }
+
+`

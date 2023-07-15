@@ -41,7 +41,7 @@ const Menu = () => {
                     if(n !== 'Resume'){
                          return (<li key={`menu-items-${i+2}`}><a href={`#section-${i+2}`} onClick={hideMenu}>{n}</a></li>)
                     }else{
-                        return (<li key={`menu-items-${i+1}`}><a href={`https://drive.google.com/file/d/1gizGoNV-Sx3stVK74tRwv9Fs--kvp8Kz/view?usp=sharing`} target="_blank" rel="noreferrer noopener" >{n}</a></li>)
+                        return (<li key={`menu-items-${i+1}`}><a href={`https://drive.google.com/file/d/19X2mmn0VL01duRQHvW_R8F0gGjSaMRR8/view?usp=sharing`} target="_blank" rel="noreferrer noopener" >{n}</a></li>)
                     }
                         })}
             </ul>

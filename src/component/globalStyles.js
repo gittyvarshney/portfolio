@@ -16,56 +16,67 @@ const GlobalStyle = createGlobalStyle`
 @font-face {
     font-family: 'Rubik';
     src: url(${RubikFont}) format('truetype');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Justmore';
     src: url(${JustMoreFont}) format('truetype');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Courgette';
     src: url(${Courgette}) format('truetype');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Charm';
     src: url(${Charm}) format('truetype');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'MeriendaOne';
     src: url(${MeriendaOne}) format('truetype');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'McLaren';
     src: url(${McLaren}) format('truetype');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Lily';
     src: url(${Lily}) format('truetype');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Bellota';
     src: url(${Bellota}) format('truetype');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Paprika';
     src: url(${Paprika}) format('truetype');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Buda';
     src: url(${Buda}) format('truetype');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Delius';
     src: url(${Delius}) format('truetype');
+    font-display: swap;
 }
 
 html,

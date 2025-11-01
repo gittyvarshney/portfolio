@@ -24,11 +24,7 @@ const About = () => {
                 Hi, My Name is Pranjul &amp; I'm a Web Developer Based in India
                 </div>
                 <div className='body'>
-                I have been working as a web developer since the starting of 2021; 
-                I started my career as a Software Developer Intern, from then I started admiring
-                the frontEnd due to the awesomeness of modern Javascript &amp; increasing popularity
-                of front-end frameworks, I've been into JS and React for quite a while &amp; slowly
-                become delighted and less frustated as more FE tasks came along my way
+                I've been working as a web developer since early 2021. I started my journey as a Software Developer Intern, and gradually fell in love with front-end development thanks to modern JavaScript and the rapid growth of front-end frameworks. I’ve been deep into JS and React for a long time now, and each new FE task makes me more energized and far less frustrated.
                 </div>
             </div>
             <div class="custom-shape bottom">

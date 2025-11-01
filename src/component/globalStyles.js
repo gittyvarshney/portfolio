@@ -10,6 +10,9 @@ import Bellota from '../fonts/Bellota-Regular.ttf';
 import Paprika from '../fonts/Paprika-Regular.ttf';
 import Buda from '../fonts/Buda-Light.ttf';
 import Delius from '../fonts/DeliusSwashCaps-Regular.ttf';
+import GoogleSansSerif from '../fonts/GoogleSansCode-VariableFont_wght.ttf';
+import Andika from '../fonts/Andika-Regular.ttf';
+import Meriweather from '../fonts/MerriweatherSans-VariableFont_wght.ttf';
 
 const GlobalStyle = createGlobalStyle`
 
@@ -76,6 +79,24 @@ const GlobalStyle = createGlobalStyle`
 @font-face {
     font-family: 'Delius';
     src: url(${Delius}) format('truetype');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GSansSerif';
+    src: url(${GoogleSansSerif}) format('truetype');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Andika';
+    src: url(${Andika}) format('truetype');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Meriweather';
+    src: url(${Meriweather}) format('truetype');
     font-display: swap;
 }
 

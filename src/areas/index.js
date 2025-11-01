@@ -24,7 +24,7 @@ const  Areas = () => {
                                 Javascript
                             </h3>
                             <p class='card-subtitle'> 
-                                Intermediate
+                                Advanced
                             </p>
                         </div>
                         <div class='card-back'>
@@ -45,7 +45,7 @@ const  Areas = () => {
                                 React
                             </h3>
                             <p class='card-subtitle'> 
-                                Intermediate
+                                Advanced
                             </p>
                         </div>
                         <div class='card-back'>
@@ -67,7 +67,7 @@ const  Areas = () => {
                                 CSS
                             </h3>
                             <p class='card-subtitle'> 
-                                Intermediate
+                                Advanced
                             </p>
                         </div>
                         <div class='card-back'>
@@ -108,7 +108,7 @@ const  Areas = () => {
                                 BackEnd Development
                             </h3>
                             <p class='card-subtitle'> 
-                                Beginner
+                                Intermediate
                             </p>
                         </div>
                         <div class='card-back'>

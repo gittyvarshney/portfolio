@@ -9,11 +9,6 @@ const FrontImage = () => {
                 <img src={process.env.PUBLIC_URL + '/images/web_dev_is_cool.png'} />
             </div>
            <div className="desktop-frame">
-                <img src={process.env.PUBLIC_URL + '/images/mac_book.png'}/>
-                
-                {/* <div className="react-logo">
-                    <img src={process.env.PUBLIC_URL + '/images/react-logo.png'}/>
-                </div> */}
                 <div className="desktop-type">
                     <Typewriter
                         options={{

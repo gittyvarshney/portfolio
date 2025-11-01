@@ -92,13 +92,13 @@ position: relative;
         margin-right: 5%;
         width: 40%;
         .heading{
-          font-family: 'Courgette';
-          font-size: clamp(1.2rem,2vw,2rem);
+          font-family: 'GSansSerif';
+          font-size: clamp(1.0rem,1.8vw,1.8rem);
         }
         .body{
           color: rgb(41 40 73 / 88%);
           margin-top: 12px;
-          font-family: 'Charm';
+          font-family: 'Andika';
           font-size: clamp(0.9rem,1.8vw,1.8rem);
         }
     }
@@ -110,6 +110,12 @@ position: relative;
           margin-top: 15px;
           margin-bottom: 15px;
           width: 80%;
+          .heading{
+            text-align: center;
+          }
+          .body{
+            text-align: center;
+        }
         }
     }
 

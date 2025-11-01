@@ -24,9 +24,9 @@ justify-content: space-between;
     
     .desktop-type{
       color: #444655;
-      font-family: 'Rubik';
+      font-family: 'GSansSerif';
       text-align: center;
-      font-size: max(1.8vw,14px);
+      font-size: max(1.8vw,16px);
       position: absolute;
       width: 90%;
       top: 15%;
